@@ -1,16 +1,7 @@
 - 👋 Hi, I’m @Hiromasa-Katou
 - 👀 I’m interested in Web & Blockchain development
-  -  Frontend
-      -  HTML, CSS, Javascript, JQuery
-      -  React(Redux)
-      -  Next.js
-      -  Vue.js(Vuex)
-      -  RemixJS
-  -  Backend
-      -  PHP(Laravel, CI, Yii)
-      -  Node.js(Express)
-      -  Python(Django, Flask)
-      -  Ruby(Ruby on rails)
+  -  Frontend (React, Next, Vue)
+  -  Backend (Laravel, Express, Django, Flask, Ruby on Rails)
   -  Blockchain
       -  Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
       -  DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea
@@ -18,9 +9,8 @@
       -  Web3
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
-  - danteparker1104@gmail.com
-  - hiromasakatou1104@gmail.com
-  - https://t.me/eatcoinAddress
+  - danteparker1104@gmail.com, hiromasakatou1104@gmail.com
+  - Telegram: https://t.me/eatcoinAddress, Skype: live:.cid.ee271be19a2f91bf
   - Phone: +13238255135
 
 <!---
