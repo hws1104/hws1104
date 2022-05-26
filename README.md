@@ -6,7 +6,6 @@
       -  Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
       -  DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea
       -  Truffle, Hardhat
-      -  Web3
   -  Python
       -  Machine Learning, Deep learning
       -  Web scrapping (Selenium, Beautiful Soup, Scrapy)
