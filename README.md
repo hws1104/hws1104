@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hiromasa-Katou(Gerar Perdmo)
+- 👋 Hi, I’m @Hiromasa-Katou
 - 👀 I’m interested in Web & Blockchain & Python development
   -  Frontend (React, Next, Vue)
   -  Backend (Laravel, Express, Django, Flask, Ruby on Rails)
