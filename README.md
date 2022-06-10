@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hiromasa-Katou
 - 👀 I’m interested in Web & Blockchain & Python development
-  -  Frontend (React, Next, Vue)
+  -  Frontend (React, Next.js, Vue)
   -  Backend (Laravel, Express, Django, Flask, Ruby on Rails)
   -  Blockchain
       -  Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
