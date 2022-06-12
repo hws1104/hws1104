@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web & Blockchain & Python development
   -  Frontend (React, Next.js, Vue)
   -  Backend (Laravel, Express, Django, Flask, Ruby on Rails)
-  -  Blockchain
+  -  Blockchain (Ethereum, Polygon, Cardano, Solana)
       -  Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
       -  DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea
       -  Truffle, Hardhat
