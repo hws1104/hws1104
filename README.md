@@ -7,7 +7,6 @@
       -  DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea
       -  Truffle, Hardhat
   -  Python
-      -  Machine Learning, Deep learning
       -  Web scrapping (Selenium, Beautiful Soup, Scrapy)
       -  Image Processing
 <!-- - 💞️ I’m looking to collaborate on ... -->
