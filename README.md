@@ -12,7 +12,7 @@
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
   - danteparker1104@gmail.com, hiromasakatou1104@gmail.com
-  - Telegram: https://t.me/eatcoinAddress, Skype: live:.cid.ee271be19a2f91bf
+  - Telegram: https://t.me/hws1104, Skype: live:.cid.ee271be19a2f91bf
   - Phone: +13238255135
 
 <!---
