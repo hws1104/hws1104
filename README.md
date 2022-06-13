@@ -13,7 +13,7 @@
 - 📫 How to reach me ...
   - danteparker1104@gmail.com, hiromasakatou1104@gmail.com
   - Telegram: https://t.me/hws1104, Skype: live:.cid.ee271be19a2f91bf
-  - Phone: +13238255135
+  - Phone: +1 239 676 6454
 
 <!---
 Hiromasa-Katou/Hiromasa-Katou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
