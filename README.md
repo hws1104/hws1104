@@ -1,17 +1,12 @@
-- 👋 Hi, I’m @Hiromasa-Katou
-- 👀 I’m interested in Web & Blockchain & Python development
-  -  Frontend (React, Next.js, Vue)
-  -  Backend (Laravel, Express, Django, Flask, Ruby on Rails)
+- 👀 I’m a passionate and skilled Full-Stack Web & Blockchain Developer
+  -  Frontend (React, Next.js, Vue, Nuxt, Remix.js)
+  -  Backend (Django, Express, Flask, Ruby on Rails, Laravel)
   -  Blockchain (Ethereum, Polygon, Cardano, Solana)
       -  Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
       -  DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea
       -  Truffle, Hardhat
-  -  Python
-      -  Web scrapping (Selenium, Beautiful Soup, Scrapy)
-      -  Image Processing
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
-  - danteparker1104@gmail.com, hiromasakatou1104@gmail.com
   - Telegram: https://t.me/hws1104, Skype: live:.cid.ee271be19a2f91bf
   - Phone: +1 239 676 6454
 
