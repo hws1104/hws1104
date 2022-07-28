@@ -1,6 +1,6 @@
 - 👀 I’m a passionate and skilled Full-Stack Web & Blockchain Developer
   -  Frontend (React, Next.js, Vue, Nuxt, Remix.js)
-  -  Backend (Django, Express, Flask, Ruby on Rails, Laravel)
+  -  Backend (Ruby on Rails, Django, Express, Flask, Laravel)
   -  Blockchain (Ethereum, Polygon, Cardano, Solana)
       -  Smart Contracts(ERC20, BEP20, ERC721, ERC1155)
       -  DeFi, Staking, Farming, NFT Auctions, NFT MarketPlace, OpenSea
